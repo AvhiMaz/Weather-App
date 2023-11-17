@@ -6,7 +6,7 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background-image: url('bg.jpg');
+  background-image : url('https://giffiles.alphacoders.com/105/105296.gif');
   background-size: cover;
   background-position: top center;
 }
@@ -22,7 +22,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 50px 15px 15px;
+  padding: 150px 15px 15px;
 }
 
 header input {
@@ -32,12 +32,12 @@ header input {
   border: none;
   outline: none;
   background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 0px 16px 0px 16px;
+  border-radius: 50px 50px 50px 50px;
   border-bottom: 3px solid gray;
 
-  color: #313131;
+  color: black;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 500;
   transition: 0.2s ease-out;
 }
 
