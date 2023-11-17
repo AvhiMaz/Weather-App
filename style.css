@@ -6,7 +6,7 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background-image : url('https://giffiles.alphacoders.com/105/105296.gif');
+  background-image : url('https://giffiles.alphacoders.com/209/209277.gif');
   background-size: cover;
   background-position: top center;
 }
@@ -22,12 +22,12 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 150px 15px 15px;
+  padding: 200px 15px 15px;
 }
 
 header input {
   width: 100%;
-  max-width: 280px;
+  max-width: 300px;
   padding: 10px 15px;
   border: none;
   outline: none;
