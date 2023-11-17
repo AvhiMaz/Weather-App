@@ -55,3 +55,4 @@ const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric
 const formattedDate = currentDate.toLocaleDateString('en-US', options);
 dateElement.textContent = formattedDate;
 
+
